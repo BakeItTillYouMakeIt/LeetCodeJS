@@ -2,7 +2,7 @@
 
 This github is heavily modeled after kamyu104's LeetCode repository that has a lot of answers in Python and C++.
 
-[Eren](what???) and [Sulamita](https://github.com/kyusulamita) are hard at work trying to bring you guys new problems each week so keep checking back! If you want to also contribute please feel free to do so.
+[Eren](https://github.com/erenerdo) and [Sulamita](https://github.com/kyusulamita) are hard at work trying to bring you guys new problems each week so keep checking back! If you want to also contribute please feel free to do so.
 
 
 
@@ -10,49 +10,49 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 
 ## Algorithms
 
-* [Bit Manipulation](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#bit-manipulation)
-* [Array](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#array)
-* [String](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#string)
-* [Linked List](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#linked-list)
-* [Stack](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#stack)
-* [Queue](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#queue)
-* [Heap](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#heap)
-* [Tree](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#tree)
-* [Hash Table](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#hash-table)
-* [Math](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#math)
-* [Two Pointers](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#two-pointers)
-* [Sort](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#sort)
-* [Recursion](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#recursion)
-* [Binary Search](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#binary-search)
-* [Binary Search Tree](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#binary-search-tree)
-* [Breadth-First Search](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#breadth-first-search)
-* [Depth-First Search](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#depth-first-search)
-* [Backtracking](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#backtracking)
-* [Dynamic Programming](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#dynamic-programming)
-* [Greedy](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#greedy)
-* [Graph](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#graph)
-* [Geometry](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#geometry)
-* [Design](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#design)
+* [Bit Manipulation](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#bit-manipulation)
+* [Array](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#array)
+* [String](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#string)
+* [Linked List](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#linked-list)
+* [Stack](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#stack)
+* [Queue](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#queue)
+* [Heap](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#heap)
+* [Tree](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#tree)
+* [Hash Table](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#hash-table)
+* [Math](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#math)
+* [Two Pointers](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#two-pointers)
+* [Sort](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#sort)
+* [Recursion](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#recursion)
+* [Binary Search](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#binary-search)
+* [Binary Search Tree](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#binary-search-tree)
+* [Breadth-First Search](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#breadth-first-search)
+* [Depth-First Search](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#depth-first-search)
+* [Backtracking](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#backtracking)
+* [Dynamic Programming](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#dynamic-programming)
+* [Greedy](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#greedy)
+* [Graph](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#graph)
+* [Geometry](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#geometry)
+* [Design](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#design)
 
 
 ## Database
 
-* [SQL](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#sql)
+* [SQL](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#sql)
 
 
 ## Shell
 
-* [Shell Script](https://github.com/FullstackAcademy/interview-illuminati/LeetCode#shell-script)
+* [Shell Script](https://github.com/BakeItTillYouMakeIt/LeetCodeJS#shell-script)
 
 ## Bit Manipulation
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-136 | [Single Number](https://leetcode.com/problems/single-number/) | [Javascript](./Javascript/singleNumber.js) | _O(n)_       | _O(1)_          | Easy         |||
-137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Javascript](./Javascript/singleNumberII.js) Under Construction | _O(n)_ | _O(1)_          | Medium         |||
-190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [Javascript](./Javascript/reverseBits.js) | _O(1)_        | _O(1)_          | Easy           |||
-191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Javascript](./Javascript/numberOf1Bits.js) | _O(1)_ | _O(1)_          | Easy           |||
+136 | [Single Number](https://leetcode.com/problems/single-number/) | [Javascript](./Javascript/136_singleNumber.js) | _O(n)_       | _O(1)_          | Easy         |||
+137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Javascript](./Javascript/137_singleNumberII.js) | _O(n)_ | _O(1)_          | Medium         |||
+190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [Javascript](./Javascript/190_reverseBits.js) | _O(1)_        | _O(1)_          | Easy           |||
+191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Javascript](./Javascript/191_numberOf1Bits.js) | _O(1)_ | _O(1)_          | Easy           |||
 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Medium ||
-231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Javascript](./Javascript/powerOfTwo.js)  | _O(1)_ | _O(1)_ | Easy | LintCode |
+231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Javascript](./Javascript/231_powerOfTwo.js)  | _O(1)_ | _O(1)_ | Easy | LintCode |
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_          | Medium         ||
 268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(n)_ |  _O(1)_ | Medium         | LintCode ||
 318| [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(n)_ ~ _O(n^2)_ |  _O(n)_ | Medium         || Bit Manipulation, Counting Sort, Pruning|
