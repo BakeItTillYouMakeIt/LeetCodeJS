@@ -19,18 +19,5 @@ const reverseBits = (num) => {
 		num >>= 1;
 	}
 
-	return result;
+	return result >>> 0;
 };
-
-//should produce all 0's
-console.log(reverseBits(0));
-// macimum 32but int = 2^32 - 1 = 4294967295
-console.log(reverseBits(4294967295));
-// this SHOULD produce the same thing
-console.log(reverseBits(1));
-
-const maxNum = Math.pow(2, 32) - 1;
-console.log(maxNum);
-console.log(Math.floor(Math.pow(maxNum, 0.5)));
-
-console.log(reverseBits(maxNum));
