@@ -85,8 +85,8 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 015 | [3 Sum](https://leetcode.com/problems/3sum/)         | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction       | _O(n^2)_        | _O(1)_          | Medium         || Two Pointers
 016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_       | _O(1)_          | Medium         || Two Pointers
 018| [4 Sum](https://leetcode.com/problems/4sum/)         | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction        | _O(n^3)_    | _O(1)_    | Medium         || Two Pointers
-026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_       | _O(1)_         | Easy           || Two Pointers
-027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_      | _O(1)_         | Easy           ||
+026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Javascript](./Javascript/026_removeDuplicatedFromSortedArray.js) | _O(n)_       | _O(1)_         | Easy           || Two Pointers
+027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Javascript](./Javascript/027_removeElement.js) Under Construction | _O(n)_      | _O(1)_         | Easy           ||
 031 | [Next Permutation](https://leetcode.com/problems/next-permutation/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_  | _O(1)_          | Medium         || Tricky
 041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Hard         || Tricky
 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)   | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_      | _O(1)_         | Medium         ||
@@ -229,10 +229,10 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 002| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Javascript](./Javascript/002_addTwoNumbers.js)| _O(n)_   | _O(1)_          | Medium         ||
-021| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy         ||
-023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(nlogk)_| _O(1)_| Hard          | | Heap, Divide and Conquer
+021| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Javascript](./Javascript/021_mergeTwoSortedLists.js) | _O(n)_ | _O(1)_ | Easy         ||
+023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Javascript](./Javascript/023_mergeKSortedLists.js) | _O(nlogk)_| _O(1)_| Hard          | | Heap, Divide and Conquer
 024| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(n)_          | _O(1)_          | Easy         ||
-025| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_       | _O(1)_         | Hard         ||
+025| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [Javascript](./Javascript/025_reverseNodesInKGroup.js)| _O(n)_       | _O(1)_         | Hard         ||
 061| [Rotate List](https://leetcode.com/problems/rotate-list/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(n)_          | _O(1)_          | Medium         ||
 082| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_       | _O(1)_         | Medium         ||
 083| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_       | _O(1)_         | Easy           ||
@@ -251,7 +251,7 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 ## Stack
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-020| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_        | _O(n)_          | Easy           ||
+020| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Javascript](./Javascript/020_validParentheses.js) Under Construction | _O(n)_        | _O(n)_          | Easy           ||
 032| [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Hard   ||
 071| [Simplify Path](https://leetcode.com/problems/simplify-path/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_        | _O(n)_          | Medium         ||
 084| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(n)_ | Hard || Ascending Stack, DP
@@ -344,7 +344,7 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 001| [Two Sum](https://leetcode.com/problems/two-sum/)      | [Javascript](./Javascript/001_twoSum.js)    | _O(n)_         | _O(n)_          | Easy         ||
 003| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Javascript](./Javascript/003_longestSubstringWithoutRepeatingCharacters.js) | _O(n)_ | _O(1)_ | Medium ||
 030| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O((m + n) * k)_ | _O(n * k)_ | Hard          ||
-036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(9^2)_         | _O(9)_          | Easy           ||
+036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Javascript](./Javascript/036_validSudoku.js) Under Construction | _O(9^2)_         | _O(9)_          | Easy           ||
 049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(n * glogg)_          | _O(n)_          | Medium         ||
 076| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(k)_ | Hard          ||
 149| [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_ | _O(n)_ | Hard          ||
@@ -399,8 +399,8 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 007| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Javascript](./Javascript/007_reverseInteger.js) | _O(1)_ | _O(1)_         | Easy           ||
 009| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_        | Easy           ||
-012| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_          | Medium         ||
-013| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_          | Easy           ||
+012| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Javascript](./Javascript/012_integerToRoman.js) Under Construction | _O(n)_ | _O(1)_          | Medium         ||
+013| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Javascript](./Javascript/013_romanToInteger.js) Under Construction | _O(n)_ | _O(1)_          | Easy           ||
 029| [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction    | _O(1)_       | _O(1)_         | Medium         ||
 050| [Pow(x, n)](https://leetcode.com/problems/powx-n/)     | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction     | _O(1)_       | _O(1)_       | Medium         ||
 060| [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_ | _O(n)_  | Medium         || `Cantor Ordering`
@@ -485,7 +485,7 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 ## Two Pointers
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_       | _O(1)_         | Easy         ||
+019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Javascript](./Javascript/019_removeNthNodeFromEnd.js) | _O(n)_       | _O(1)_         | Easy         ||
 086| [Partition List](https://leetcode.com/problems/partition-list/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_       | _O(1)_         | Medium         ||
 141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_         | Easy         ||
 142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_   | Medium         ||
@@ -540,8 +540,8 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 004| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(log(min(m, n)))_ | _O(1)_ | Hard         ||
-033| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(logn)_ | _O(1)_   | Hard         ||
-034| [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(logn)_ | _O(1)_   | Medium         ||
+033| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Javascript](./Javascript/033_searchInRotatedSortedArray.js) | _O(logn)_ | _O(1)_   | Hard         ||
+034| [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Javascript](./Javascript/034_searchForARange.js) Under Construction | _O(logn)_ | _O(1)_   | Medium         ||
 305| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(logn)_ | _O(1)_   | Medium         ||
 069| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)       | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction      | _O(logn)_        | _O(1)_         | Medium         ||
 074| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(logm + logn)_ | _O(1)_ | Medium   ||
@@ -654,10 +654,10 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 ## Backtracking
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-017| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](./Python/letter-combinations-of-a-phone-number.py) | _O(n * 4^n)_ | _O(n)_ | Medium ||
-022| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](./Python/generate-parentheses.py)| _O(4^n / n^(3/2))_ | _O(n)_   | Medium         ||
-037| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](./Python/sudoku-solver.py) | _O((9!)^9)_  | _O(1)_          | Hard           ||
-039| [Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](./Python/combination-sum.py) | _O(k * n^k)_    | _O(k)_          | Medium         ||
+017| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Javascript](./Javascript/017_letterCombinationsOfAPhoneNumber.js) | _O(n * 4^n)_ | _O(n)_ | Medium ||
+022| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Javascript](./Javascript/022_generateParentheses)| _O(4^n / n^(3/2))_ | _O(n)_   | Medium         ||
+037| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Javascript](./Javascript/037_sudokuSolver.js) | _O((9!)^9)_  | _O(1)_          | Hard           ||
+039| [Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](./Javascript/039_combinationSum.js) | _O(k * n^k)_    | _O(k)_          | Medium         ||
 040| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [Python](./Python/combination-sum-ii.py)| _O(k * C(n, k))_| _O(k)_         | Medium         ||
 046| [Permutations](https://leetcode.com/problems/permutations/)| [Python](./Python/permutations.py) | _O(n * n!)_         | _O(n)_          | Medium         ||
 047| [Permutations II](https://leetcode.com/problems/permutations-ii/)| [Python](./Python/permutations-ii.py) | _O(n * n!)_   | _O(n)_          | Medium           ||
@@ -772,7 +772,7 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 ## Greedy
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-011| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium ||
+011| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Javascript](./Javascript/011_containerWithMostWater.js) Under Construction | _O(n)_ | _O(1)_ | Medium ||
 042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Hard || Tricky
 044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](./Python/wildcard-matching.py) | _O(m + n)_ | _O(1)_    | Hard           || Tricky
 045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [Python](./Python/jump-game-ii.py) | _O(n)_        | _O(1)_          | Hard           ||
