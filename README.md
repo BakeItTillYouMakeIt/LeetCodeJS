@@ -1,5 +1,7 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 
+Cookies not included, please bake your own.
+
 This github is heavily modeled after kamyu104's LeetCode repository that has a lot of answers in Python and C++.
 
 [Eren](https://github.com/erenerdo) and [Sulamita](https://github.com/kyusulamita) are hard at work trying to bring you guys new problems each week so keep checking back! If you want to also contribute please feel free to do so.
@@ -7,6 +9,13 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 
 
 (Notes: "📖" means you need to subscribe to [LeetCode premium membership](https://leetcode.com/subscribe/) for the access to premium questions.)
+
+## Q&A
+* Why is some of this code trash?
+  BECAUSE IT'S TRASH CAN. NOT TRASH CAN'T. But in all seriousness, if you see some code that you think you can improve please put in a pull request! We recognize some of our code is not the best and are always looking for people to help
+* Can I help out somehow?
+  Of course! We currently don't have a contribution guide but we do have a small bit of [info](./Javascript/RELATIVE_PATH_HERE.js) about how we would like to keep the files and readme formatted. Once you add or edit a file, please put in a pull request!
+* Bake it till you make it? FAKE IT TILL YOU MAKE IT
 
 ## Algorithms
 
@@ -157,15 +166,15 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 ## String
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-005| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(n)_ |  Medium || `Manacher's Algorithm`
+005| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Javascript](./Javascript/005_longestPalindromeSubstring.js) | _O(n)_ | _O(n)_ |  Medium || `Manacher's Algorithm`
 006| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_        | Easy           ||
-008| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy      ||
-014| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n * k)_   | _O(1)_  | Easy           ||
-028| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n + k)_   | _O(k)_  | Easy           || `KMP Algorithm`
+008| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Javascript](./Javascript/008_stringToInteger.js) | _O(n)_ | _O(1)_ | Easy      ||
+014| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Javascript](./Javascript/014_longetCommonPrefix.js) | _O(n * k)_   | _O(1)_  | Easy           ||
+028| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Javascript](./Javascript/028_implementstrStr.js) | _O(n + k)_   | _O(k)_  | Easy           || `KMP Algorithm`
 038| [Count and Say](https://leetcode.com/problems/count-and-say/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n * 2^n)_  | _O(2^n)_        | Easy           ||
 043| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(m * n)_ | _O(m + n)_  | Medium         ||
-058| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_   | _O(1)_  | Easy           ||
-067| [Add Binary](https://leetcode.com/problems/add-binary/)    | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_          | _O(1)_          | Easy           ||
+058| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Javascript](./Javascript/058_lengthOfLastWord.js)  | _O(n)_   | _O(1)_  | Easy           ||
+067| [Add Binary](https://leetcode.com/problems/add-binary/)    | [Javascript](./Javascript/067_addBinary.js) | _O(n)_          | _O(1)_          | Easy           ||
 068| [Text Justification](https://leetcode.com/problems/text-justification/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_      | Hard           ||
 125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_  | _O(1)_         | Easy           ||
 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium         ||
@@ -219,7 +228,7 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 ## Linked List
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-002| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_   | _O(1)_          | Medium         ||
+002| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Javascript](./Javascript/002_addTwoNumbers.js)| _O(n)_   | _O(1)_          | Medium         ||
 021| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy         ||
 023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(nlogk)_| _O(1)_| Hard          | | Heap, Divide and Conquer
 024| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(n)_          | _O(1)_          | Easy         ||
@@ -332,8 +341,8 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 ## Hash Table
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-001| [Two Sum](https://leetcode.com/problems/two-sum/)      | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction      | _O(n)_         | _O(n)_          | Easy         ||
-003| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium ||
+001| [Two Sum](https://leetcode.com/problems/two-sum/)      | [Javascript](./Javascript/001_twoSum.js)    | _O(n)_         | _O(n)_          | Easy         ||
+003| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Javascript](./Javascript/003_longestSubstringWithoutRepeatingCharacters.js) | _O(n)_ | _O(1)_ | Medium ||
 030| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O((m + n) * k)_ | _O(n * k)_ | Hard          ||
 036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(9^2)_         | _O(9)_          | Easy           ||
 049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(n * glogg)_          | _O(n)_          | Medium         ||
@@ -388,7 +397,7 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 ## Math
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-007| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_         | Easy           ||
+007| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Javascript](./Javascript/007_reverseInteger.js) | _O(1)_ | _O(1)_         | Easy           ||
 009| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_        | Easy           ||
 012| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_          | Medium         ||
 013| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_          | Easy           ||
