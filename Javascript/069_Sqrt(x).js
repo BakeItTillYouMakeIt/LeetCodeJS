@@ -2,7 +2,7 @@
 //Utilizes binary search
 //Solution only valid for truncated result
 //Removing 'Math.floor' from line 13 will return inaccuate result for square root
-ß
+
 const mySqrt = number => {
   let lo = 0
   let hi = number;
