@@ -10,6 +10,8 @@ This github is heavily modeled after kamyu104's LeetCode repository that has a l
 
 (Notes: "📖" means you need to subscribe to [LeetCode premium membership](https://leetcode.com/subscribe/) for the access to premium questions.)
 
+For those of you without LeetCode premium here's a [link](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry) to screenshots for some of the LeetCode company prep guides.
+
 ## Q&A
 * Why is some of this code trash?
   BECAUSE IT'S TRASH CAN. NOT TRASH CAN'T. But in all seriousness, if you see some code that you think you can improve please put in a pull request! We recognize some of our code is not the best and are always looking for people to help
