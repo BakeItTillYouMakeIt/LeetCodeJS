@@ -29,6 +29,5 @@ var threeSum = (nums) => {
          
       }
     }
-    
     return finalArr
 };
