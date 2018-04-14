@@ -19,7 +19,7 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 * Can I help out somehow?
 
   Of course! We currently don't have a contribution guide but we do have a small bit of [info](./Javascript/RELATIVE_PATH_HERE.js) about how we would like to keep the files and readme formatted. Once you add or edit a file, please put in a pull request!
-* Bake it till you make it? 
+* Bake it till you make it?
 
   FAKE IT TILL YOU MAKE IT
 * Is the readme upto date? Not right now! Still trying to work on this >-> For now please go into the javascript folder in case you don't see it correctly linked on the readme
@@ -63,7 +63,6 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 ## Bit Manipulation
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-714 | [Best Time to Buy and Sell Stock with Transaction Fee] (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Javascript] (./Javascript/714_BestTimeToBuyAndSellStockWithTransactionFee.js) | _O(n)_ | _O(n)_  | Medium |||
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Javascript](./Javascript/136_singleNumber.js) | _O(n)_       | _O(1)_          | Easy         |||
 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Javascript](./Javascript/137_singleNumberII.js) | _O(n)_ | _O(1)_          | Medium         |||
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [Javascript](./Javascript/190_reverseBits.js) | _O(1)_        | _O(1)_          | Easy           |||
@@ -153,6 +152,7 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(n)_ | Hard ||
 697| [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(n)_ | Easy ||
 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium ||
+714 | [Best Time to Buy and Sell Stock with Transaction Fee] (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Javascript] (./Javascript/714_BestTimeToBuyAndSellStockWithTransactionFee.js) | _O(n)_ | _O(n)_  | Medium |||
 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy || Greedy
 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O((R * C)^2)_ | _O(1)_ | Medium ||
 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy ||
