@@ -58,6 +58,7 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 ## Bit Manipulation
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+714 | [Best Time to Buy and Sell Stock with Transaction Fee] (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Javascript] (./Javascript/714_BestTimeToBuyAndSellStockWithTransactionFee.js) | _O(n)_ | _O(n)_  | Medium |||
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Javascript](./Javascript/136_singleNumber.js) | _O(n)_       | _O(1)_          | Easy         |||
 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Javascript](./Javascript/137_singleNumberII.js) | _O(n)_ | _O(1)_          | Medium         |||
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [Javascript](./Javascript/190_reverseBits.js) | _O(1)_        | _O(1)_          | Easy           |||
