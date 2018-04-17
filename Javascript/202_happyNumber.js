@@ -1,6 +1,5 @@
 
-//Time Complexity - O(n), space Complexity - O(n)
-var isHappy = function (n) {
+const isHappy = (n) => {
   const hashMap = {}
   n = n.toString()
   while (n !== '1') {
@@ -14,9 +13,8 @@ var isHappy = function (n) {
 };
 
 //Recursive Solution
-//Time Complexity - O(n), space Complexity - O(n)
 
-var isHappy = (n, hashMap = {}) => {
+const isHappy = (n, hashMap = {}) => {
   n = n.toString()
   if (n !== '1') {
     if (hashMap[n]) return false
