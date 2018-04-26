@@ -406,7 +406,7 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 007| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Javascript](./Javascript/007_reverseInteger.js) | _O(1)_ | _O(1)_         | Easy           ||
-009| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_        | Easy           ||
+009| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Javascript](./Javascript/009_palindromeNumber.js) | _O(n)_ | _O(1)_        | Easy           ||
 012| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Javascript](./Javascript/012_integerToRoman.js) Under Construction | _O(n)_ | _O(1)_          | Medium         ||
 013| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Javascript](./Javascript/013_romanToInteger.js) Under Construction | _O(n)_ | _O(1)_          | Easy           ||
 029| [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction    | _O(1)_       | _O(1)_         | Medium         ||
