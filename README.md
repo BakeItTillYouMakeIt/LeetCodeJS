@@ -418,6 +418,7 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(logn)_ | _O(1)_ | Easy ||
 171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy  ||
 172| [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(1)_ | _O(1)_ | Easy         ||
+202| [Happy Number](https://leetcode.com/problems/happy-number/) | [Javascript](./202_happyNumber.js) Under Construction  | ? |? | Easy         ||
 223| [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(1)_ | _O(1)_ | Easy         ||
 233| [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(1)_ | _O(1)_ | Hard        | CTCI, LintCode|
 248| [Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(5^(n/2))_ | _O(n)_ | Hard         |[📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry)||
