@@ -551,7 +551,7 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 004| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(log(min(m, n)))_ | _O(1)_ | Hard         ||
 033| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Javascript](./Javascript/033_searchInRotatedSortedArray.js) | _O(logn)_ | _O(1)_   | Hard         ||
 034| [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Javascript](./Javascript/034_searchForARange.js) Under Construction | _O(logn)_ | _O(1)_   | Medium         ||
-305| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Javascript](./Javascript/035_searchInsertPosition.js) | _O(logn)_ | _O(1)_   | Medium         ||
+035| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Javascript](./Javascript/035_searchInsertPosition.js) | _O(logn)_ | _O(1)_   | Easy         ||
 069| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)       | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction      | _O(logn)_        | _O(1)_         | Medium         ||
 074| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(logm + logn)_ | _O(1)_ | Medium   ||
 081| [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(logn)_ | _O(1)_   | Medium         ||
