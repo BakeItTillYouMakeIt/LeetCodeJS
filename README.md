@@ -70,28 +70,28 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Medium ||
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Javascript](./Javascript/231_powerOfTwo.js)  | _O(1)_ | _O(1)_ | Easy | LintCode |
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_          | Medium         ||
-268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(n)_ |  _O(1)_ | Medium         | LintCode ||
+268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Javascript](./Javascript/268_missingNumber.js) | _O(n)_ |  _O(1)_ | Medium         | LintCode ||
 318| [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(n)_ ~ _O(n^2)_ |  _O(n)_ | Medium         || Bit Manipulation, Counting Sort, Pruning|
-342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Javascript](./Javascript/powerOfFour.js) | _O(1)_ | _O(1)_ | Easy | |
+342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Javascript](./Javascript/342_powerOfFour.js) | _O(1)_ | _O(1)_ | Easy | |
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Easy | LintCode |
 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy | |
 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium | |
 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Easy | |
 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(2^n)_ | _O(n)_ | Hard | [📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry) |
 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium ||
-461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Easy ||
+461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Javascript](./Javascript/461_hammingDistance.js)  | _O(1)_ | _O(1)_ | Easy ||
 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_  on average | _O(1)_ | Medium ||
 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium ||
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy ||
-693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Easy ||
+693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Javascript](./Javascript/693_binaryNumberWithAlternatingBits.js) | _O(1)_ | _O(1)_ | Easy ||
 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Easy ||
 
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-015 | [3 Sum](https://leetcode.com/problems/3sum/)         | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction       | _O(n^2)_        | _O(1)_          | Medium         || Two Pointers
+015 | [3 Sum](https://leetcode.com/problems/3sum/)         | [Javascript](./Javascript/015_3sum.js)    | _O(n^2)_        | _O(1)_          | Medium         || Two Pointers
 016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_       | _O(1)_          | Medium         || Two Pointers
-018| [4 Sum](https://leetcode.com/problems/4sum/)         | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction        | _O(n^3)_    | _O(1)_    | Medium         || Two Pointers
+018| [4 Sum](https://leetcode.com/problems/4sum/)         | [Javascript](./Javascript/RELATIVE_PATH_HERE.js)        | _O(n^3)_    | _O(1)_    | Medium         || Two Pointers
 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Javascript](./Javascript/026_removeDuplicatedFromSortedArray.js) | _O(n)_       | _O(1)_         | Easy           || Two Pointers
 027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Javascript](./Javascript/027_removeElement.js) Under Construction | _O(n)_      | _O(1)_         | Easy           ||
 031 | [Next Permutation](https://leetcode.com/problems/next-permutation/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_  | _O(1)_          | Medium         || Tricky
