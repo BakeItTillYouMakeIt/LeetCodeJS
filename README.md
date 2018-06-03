@@ -699,7 +699,7 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](./Python/regular-expression-matching.py) | _O(m * n)_ | _O(n)_ | Hard ||
-053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./Python/maximum-subarray.py)| _O(n)_     | _O(1)_         | Medium         ||
+053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Javascript](./Javascript/053_maximumSubarray.js)| _O(n)_     | _O(1)_         | Medium         ||
 062| [Unique Paths](https://leetcode.com/problems/unique-paths/)    | [Python](./Python/unique-paths.py)| _O(m * n)_      | _O(m + n)_   | Medium         ||
 063| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](./Python/unique-paths-ii.py) |  _O(m * n)_ | _O(m + n)_   | Medium         ||
 064| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Python](./Python/minimum-path-sum.py)| _O(m * n)_ | _O(m + n)_     | Medium         ||
@@ -785,7 +785,7 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Javascript](./Javascript/042_trappingRainWater.js)  | _O(n)_ | _O(1)_ | Hard || Tricky
 044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](./Python/wildcard-matching.py) | _O(m + n)_ | _O(1)_    | Hard           || Tricky
 045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [Javascript](./Javascript/045_jump-game-ii.py) | _O(n)_        | _O(1)_          | Hard           ||
-055| [Jump Game](https://leetcode.com/problems/jump-game/)     | [Python](./Python/jump-game.py)  | _O(n)_          | _O(1)_          | Medium         ||
+055| [Jump Game](https://leetcode.com/problems/jump-game/)     | [Javascript](./Javascript/055_jumpGame.js)  | _O(n)_          | _O(1)_          | Medium         ||
 122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](./Python/best-time-to-buy-and-sell-stock-ii.py) | _O(n)_ | _O(1)_ | Easy ||
 134| [Gas Station](https://leetcode.com/problems/gas-station/)| [Python](./Python/gas-station.py)   | _O(n)_          | _O(1)_          | Medium         ||
 135| [Candy](https://leetcode.com/problems/candy/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(n)_ | Hard ||
