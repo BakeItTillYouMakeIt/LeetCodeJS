@@ -358,7 +358,7 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 149| [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_ | _O(n)_ | Hard          ||
 159| [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Hard         |[📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry)|
 170| [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(n)_ | Easy | [📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry) |
-187| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Python](./Python/repeated-dna-sequences.py) | _O(n)_       | _O(n)_          | Medium         ||
+187| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_       | _O(n)_          | Medium         ||
 202| [Happy Number](https://leetcode.com/problems/happy-number/)      | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(k)_  | _O(k)_          | Easy          ||
 204| [Count Primes](https://leetcode.com/problems/count-primes/)  | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_        | _O(n)_          | Easy           ||
 205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_       | Easy           ||
@@ -518,19 +518,19 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 095| [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(4^n / n^(3/2)_      | _O(4^n / n^(3/2)_         | Medium         ||
 098| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n)_ | _O(1)_ | Medium ||
-100| [Same Tree](https://leetcode.com/problems/same-tree/)      |[C+](./C++/same-tree.cpp) [Python](./Python/same-tree.py)  | _O(n)_          | _O(h)_        | Easy          ||
+100| [Same Tree](https://leetcode.com/problems/same-tree/)      |[C+](./C++/same-tree.cpp) [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(n)_          | _O(h)_        | Easy          ||
 104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n)_ | _O(h)_ | Easy ||
 105| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_        | _O(n)_          | Medium   ||
 106| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_        | _O(n)_          | Medium         ||
 108| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_        | _O(logn)_          | Medium         ||
 109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_        | _O(logn)_          | Medium         ||
-110| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./Python/balanced-binary-tree.py) | _O(n)_| _O(h)_   | Easy           ||
-111| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](./Python/minimum-depth-of-binary-tree.py)| _O(n)_ | _O(h)_ | Easy ||
-114| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](./Python/flatten-binary-tree-to-linked-list.py)| _O(n)_        | _O(h)_          | Medium         ||
-116| [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](./Python/populating-next-right-pointers-in-each-node.py)| _O(n)_ | _O(1)_ | Medium ||
-124| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [Python](./Python/binary-tree-maximum-path-sum.py) | _O(n)_| _O(h)_| Hard  ||
-129| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python](./Python/sum-root-to-leaf-numbers.py) | _O(n)_ | _O(h)_ | Medium ||
-156| [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) | [Python](./Python/binary-tree-upside-down.py) | _O(n)_ | _O(1)_ | Medium    |[📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry)|
+110| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_| _O(h)_   | Easy           ||
+111| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n)_ | _O(h)_ | Easy ||
+114| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n)_        | _O(h)_          | Medium         ||
+116| [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n)_ | _O(1)_ | Medium ||
+124| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_| _O(h)_| Hard  ||
+129| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(h)_ | Medium ||
+156| [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium    |[📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry)|
 241| [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n * 4^n / n^(3/2))_ | _O(n * 4^n / n^(3/2))_ | Medium    ||
 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(h)_ | Medium    |[📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry)|
 327| [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(nlogn)_        | _O(n)_          | Hard         ||
@@ -598,14 +598,14 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 102| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n)_| _O(n)_| Easy  ||
-107| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python](./Python/binary-tree-level-order-traversal-ii.py) | _O(n)_| _O(n)_| Easy  ||
-103| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./Python/binary-tree-zigzag-level-order-traversal.py) | _O(n)_| _O(n)_| Medium  ||
-117| [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](./Python/populating-next-right-pointers-in-each-node-ii.py)| _O(n)_ | _O(1)_ | Hard ||
-127| [Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python](./Python/word-ladder.py) | _O(n * d)_      | _O(d)_          | Medium         ||
+107| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_| _O(n)_| Easy  ||
+103| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_| _O(n)_| Medium  ||
+117| [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n)_ | _O(1)_ | Hard ||
+127| [Word Ladder](https://leetcode.com/problems/word-ladder/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n * d)_      | _O(d)_          | Medium         ||
 130| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(m * n)_ | _O(m + n)_ | Medium         ||
-133| [Clone Graph](https://leetcode.com/problems/clone-graph/)| [Python](./Python/clone-graph.py)   | _O(n)_          | _O(n)_          | Medium         ||
-207| [Course Schedule](https://leetcode.com/problems/course-schedule/)| [Python](./Python/course-schedule.py)   | _O(\|V\| + \|E\|)_          | _O(\|E\|)_          | Medium         || Topological Sort |
-210| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| [Python](./Python/course-schedule-ii.py)   | _O(\|V\| + \|E\|)_          | _O(\|E\|)_          | Medium         || Topological Sort |
+133| [Clone Graph](https://leetcode.com/problems/clone-graph/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(n)_          | _O(n)_          | Medium         ||
+207| [Course Schedule](https://leetcode.com/problems/course-schedule/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(\|V\| + \|E\|)_          | _O(\|E\|)_          | Medium         || Topological Sort |
+210| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(\|V\| + \|E\|)_          | _O(\|E\|)_          | Medium         || Topological Sort |
 261| [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(\|V\| + \|E\|)_          | _O(\|V\| + \|E\|)_          | Medium         | [📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry) |
 269| [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(n)_ | _O(1)_ | Hard         |[📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry)| Topological Sort, BFS, DFS |
 286| [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(m * n)_          | _O(g)_          | Medium         | [📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry) |
@@ -625,10 +625,10 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 ## Depth-First Search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-112| [Path Sum](https://leetcode.com/problems/path-sum/)      | [Python](./Python/path-sum.py)   | _O(n)_          | _O(h)_          | Easy           ||
-113| [Path Sum II](https://leetcode.com/problems/path-sum-ii/)   | [Python](./Python/path-sum-ii.py) | _O(n)_         | _O(h)_          | Medium         ||
-199| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](./Python/binary-tree-right-side-view.py) | _O(n)_     | _O(h)_ | Medium  ||
-200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Python/number-of-islands.py) | _O(m * n)_ | _O(m * n)_| Medium         ||
+112| [Path Sum](https://leetcode.com/problems/path-sum/)      | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(n)_          | _O(h)_          | Easy           ||
+113| [Path Sum II](https://leetcode.com/problems/path-sum-ii/)   | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_         | _O(h)_          | Medium         ||
+199| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_     | _O(h)_ | Medium  ||
+200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(m * n)_ | _O(m * n)_| Medium         ||
 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(h)_ | Medium | EPI |
 247| [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(n^2 * 5^(n/2))_ | _O(n)_ | Medium         |[📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry)||
 250| [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(n)_ | _O(h)_ | Medium         |[📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry)||
@@ -667,18 +667,18 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 022| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Javascript](./Javascript/022_generateParentheses)| _O(4^n / n^(3/2))_ | _O(n)_   | Medium         ||
 037| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Javascript](./Javascript/037_sudokuSolver.js) | _O((9!)^9)_  | _O(1)_          | Hard           ||
 039| [Combination Sum](https://leetcode.com/problems/combination-sum/)| [Javascript](./Javascript/039_combinationSum.js) | _O(k * n^k)_    | _O(k)_          | Medium         ||
-040| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [Python](./Python/combination-sum-ii.py)| _O(k * C(n, k))_| _O(k)_         | Medium         ||
-046| [Permutations](https://leetcode.com/problems/permutations/)| [Python](./Python/permutations.py) | _O(n * n!)_         | _O(n)_          | Medium         ||
-047| [Permutations II](https://leetcode.com/problems/permutations-ii/)| [Python](./Python/permutations-ii.py) | _O(n * n!)_   | _O(n)_          | Medium           ||
-051| [N-Queens](https://leetcode.com/problems/n-queens/)      | [Python](./Python/n-queens.py)   | _O(n!)_         | _O(n)_          | Hard           ||
-052| [N-Queens-II](https://leetcode.com/problems/n-queens-ii/)   | [Python](./Python/n-queens-ii.py) | _O(n!)_        | _O(n)_          | Hard           ||
-077| [Combinations](https://leetcode.com/problems/combinations/)  | [Python](./Python/combinations.py) | _O(O(k * C(n, k)))_ | _O(k)_           | Medium         ||
-079| [Word Search](https://leetcode.com/problems/word-search/) | [Python](./Python/word-search.py) | _O(m * n * l)_ | _O(l)_ | Medium         ||
-093| [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](./Python/restore-ip-addresses.py) | _O(1)_ | _O(1)_ | Medium         ||
+040| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(k * C(n, k))_| _O(k)_         | Medium         ||
+046| [Permutations](https://leetcode.com/problems/permutations/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n * n!)_         | _O(n)_          | Medium         ||
+047| [Permutations II](https://leetcode.com/problems/permutations-ii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n * n!)_   | _O(n)_          | Medium           ||
+051| [N-Queens](https://leetcode.com/problems/n-queens/)      | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(n!)_         | _O(n)_          | Hard           ||
+052| [N-Queens-II](https://leetcode.com/problems/n-queens-ii/)   | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n!)_        | _O(n)_          | Hard           ||
+077| [Combinations](https://leetcode.com/problems/combinations/)  | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(O(k * C(n, k)))_ | _O(k)_           | Medium         ||
+079| [Word Search](https://leetcode.com/problems/word-search/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(m * n * l)_ | _O(l)_ | Medium         ||
+093| [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Medium         ||
 078| [Subsets](https://leetcode.com/problems/subsets/)       | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction    | _O(n * 2^n)_    | _O(1)_          | Medium         ||
 090| [Subsets II](https://leetcode.com/problems/subsets-ii/)    | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n * 2^n)_    | _O(1)_          | Medium         ||
-126| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)   |[Python](./Python/word-ladder-ii.py) | _O(n * d)_ | _O(d)_         | Hard         ||
-131| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](./Python/palindrome-partitioning.py) | _O(n^2)_ ~ _O(2^n)_ | _O(n^2)_ | Medium ||
+126| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)   |[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n * d)_ | _O(d)_         | Hard         ||
+131| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_ ~ _O(2^n)_ | _O(n^2)_ | Medium ||
 140| [Word Break II](https://leetcode.com/problems/word-break-ii/)  | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction |  _O(n * l^2 + n * r)_      | _O(n^2)_       | Hard           ||
 212| [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(m * n * l)_ | _O(l)_  | Hard         | LintCode | Trie, DFS
 216| [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(k * C(n, k))_    | _O(k)_          | Medium         ||
@@ -698,26 +698,26 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 ## Dynamic Programming
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](./Python/regular-expression-matching.py) | _O(m * n)_ | _O(n)_ | Hard ||
-053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./Python/maximum-subarray.py)| _O(n)_     | _O(1)_         | Medium         ||
-062| [Unique Paths](https://leetcode.com/problems/unique-paths/)    | [Python](./Python/unique-paths.py)| _O(m * n)_      | _O(m + n)_   | Medium         ||
-063| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](./Python/unique-paths-ii.py) |  _O(m * n)_ | _O(m + n)_   | Medium         ||
-064| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Python](./Python/minimum-path-sum.py)| _O(m * n)_ | _O(m + n)_     | Medium         ||
-070| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](./Python/climbing-stairs.py) | _O(n)_    | _O(1)_          | Easy           ||
-072| [Edit Distance](https://leetcode.com/problems/edit-distance/)|[Python](./Python/edit-distance.py)| _O(m * n)_      | _O(m + n)_      | Hard           ||
-087| [Scramble String](https://leetcode.com/problems/scramble-string/) | [Python](./Python/scramble-string.py) | _O(n^4)_ | _O(n^3)_        | Hard           ||
+010| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(m * n)_ | _O(n)_ | Hard ||
+053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Javascript](./Javascript/053_maximumSubarray.js)| _O(n)_     | _O(1)_         | Medium         ||
+062| [Unique Paths](https://leetcode.com/problems/unique-paths/)    | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(m * n)_      | _O(m + n)_   | Medium         ||
+063| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction |  _O(m * n)_ | _O(m + n)_   | Medium         ||
+064| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(m * n)_ | _O(m + n)_     | Medium         ||
+070| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_    | _O(1)_          | Easy           ||
+072| [Edit Distance](https://leetcode.com/problems/edit-distance/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(m * n)_      | _O(m + n)_      | Hard           ||
+087| [Scramble String](https://leetcode.com/problems/scramble-string/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^4)_ | _O(n^3)_        | Hard           ||
 091| [Decode Ways](https://leetcode.com/problems/decode-ways/)   | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n)_          | _O(1)_          | Medium         ||
-096| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](./Python/unique-binary-search-trees.py) | _O(n)_      | _O(1)_         | Medium         || Math
-097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Python](./Python/interleaving-string.py)| _O(m * n)_ | _O(m + n)_ | Hard         ||
-115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Python](./Python/distinct-subsequences.py)| _O(n^2)_ | _O(n)_ | Hard           ||
-120| [Triangle](https://leetcode.com/problems/triangle/)       | [Python](./Python/triangle.py)   | _O(m * n)_      | _O(n)_         | Medium         ||
-123| [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Python](./Python/best-time-to-buy-and-sell-stock-iii.py) | _O(n)_ | _O(1)_ | Hard ||
-132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Python](./Python/palindrome-partitioning-ii.py) | _O(n^2)_ | _O(n^2)_ | Hard ||
+096| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_      | _O(1)_         | Medium         || Math
+097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(m * n)_ | _O(m + n)_ | Hard         ||
+115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n^2)_ | _O(n)_ | Hard           ||
+120| [Triangle](https://leetcode.com/problems/triangle/)       | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(m * n)_      | _O(n)_         | Medium         ||
+123| [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Hard ||
+132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_ | _O(n^2)_ | Hard ||
 139| [Word Break](https://leetcode.com/problems/word-break/)     | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction |  _O(n * l^2)_         | _O(n)_       | Medium         ||
-152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](./Python/maximum-product-subarray.py)| _O(n)_ | _O(1)_ | Medium     ||
-174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [Python](./Python/dungeon-game.py)| _O(m * n)_     | _O(m + n)_      | Hard           ||
-188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [Python](./Python/best-time-to-buy-and-sell-stock-iv.py) | _O(k * n)_ | _O(k)_ | Hard ||
-198| [House Robber](https://leetcode.com/problems/house-robber/)| [Python](./Python/house-robber.py) | _O(n)_          | _O(1)_          | Easy           ||
+152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(n)_ | _O(1)_ | Medium     ||
+174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction| _O(m * n)_     | _O(m + n)_      | Hard           ||
+188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(k * n)_ | _O(k)_ | Hard ||
+198| [House Robber](https://leetcode.com/problems/house-robber/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_          | _O(1)_          | Easy           ||
 213| [House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_          | _O(1)_          | Medium           ||
 221| [Maximal Square](https://leetcode.com/problems/maximal-square/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_         | _O(n)_          | Medium           | EPI |
 256| [Paint House](https://leetcode.com/problems/paint-house/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_| _O(1)_| Medium |[📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry)||
@@ -783,11 +783,11 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 011| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Javascript](./Javascript/011_containerWithMostWater.js) Under Construction | _O(n)_ | _O(1)_ | Medium ||
 042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Javascript](./Javascript/042_trappingRainWater.js)  | _O(n)_ | _O(1)_ | Hard || Tricky
-044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](./Python/wildcard-matching.py) | _O(m + n)_ | _O(1)_    | Hard           || Tricky
+044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(m + n)_ | _O(1)_    | Hard           || Tricky
 045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | [Javascript](./Javascript/045_jump-game-ii.py) | _O(n)_        | _O(1)_          | Hard           ||
-055| [Jump Game](https://leetcode.com/problems/jump-game/)     | [Python](./Python/jump-game.py)  | _O(n)_          | _O(1)_          | Medium         ||
-122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](./Python/best-time-to-buy-and-sell-stock-ii.py) | _O(n)_ | _O(1)_ | Easy ||
-134| [Gas Station](https://leetcode.com/problems/gas-station/)| [Python](./Python/gas-station.py)   | _O(n)_          | _O(1)_          | Medium         ||
+055| [Jump Game](https://leetcode.com/problems/jump-game/)     | [Javascript](./Javascript/055_jumpGame.js)  | _O(n)_          | _O(1)_          | Medium         ||
+122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy ||
+134| [Gas Station](https://leetcode.com/problems/gas-station/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(n)_          | _O(1)_          | Medium         ||
 135| [Candy](https://leetcode.com/problems/candy/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(n)_ | Hard ||
 316| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_| _O(k)_| Hard || Ascending Stack |
 321| [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(k * (m + n + k))_ ~ _O(k * (m + n + k^2))_| _O(m + n + k^2)_ | Hard | variant of [Delete Digits](http://www.lintcode.com/en/problem/delete-digits/) | Greedy, DP
